@@ -12,6 +12,33 @@ Development + testing repo for WDL workflow benchmarking for the AnVIL Dream Cha
 
 > TODO
 
+## Notes ✍️
+
+Docs WDL-workflow scaling/sharing for Dream Challenge: 
+  - Working with Walsh on initial docs + timeline: 3-4 months
+  - Involves protected data (held out training sets)
+  - CM4AI.org
+  - Try running WDL workflows on AnVIL
+
+Timeline Steps:
+  - Setup Dream challenge
+  - Announce publically
+  - Get particpants Submit models
+  - Talk about in Summer
+  - Close out in November
+  - Choose winner + write paper
+
+- Use AnVIL for submission
+- Run compute (using Cromwell on AnVIL)
+- Write benchmark in framework on AnVIL
+- Make leader board on Synapse
+- 100 submissions max
+
+- Second website that can query AnVIL (via Service Account) + run jobs (via Synapse)
+- Framework should be minimal as possible
+- Participants submitting workflows (not results)
+- Should be private (not visibile to other teams)
+
 ## Additional Resources 📚
 
 - [AnVIL: Introduction to Terra](https://anvilproject.org/learn/run-analyses-workflows/intro-to-terra)
